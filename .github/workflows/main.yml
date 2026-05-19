@@ -9,7 +9,7 @@ jobs:
   steps: 
   - uses: actions/checkout@v1 
     name: Check out code 
-  - name: Echo Hello World
+  - name: Echo Hello World..
     run: echo Hello World
   - name: Index.html Content
     run: |
